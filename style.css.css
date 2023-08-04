@@ -1,0 +1,25 @@
+img{
+  height: 200px; 
+  width: 200px; 
+  border-radius: 50%;
+}
+
+
+.first_h1{
+
+  margin: auto auto 10px 20px;
+}
+
+.first_p{
+
+  margin: 10px auto 10px 20px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 2%;
+}
+body{
+  background-color: aquamarine;
+}
